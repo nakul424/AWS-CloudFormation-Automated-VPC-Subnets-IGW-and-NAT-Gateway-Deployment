@@ -30,6 +30,7 @@ Below is the VPC + NAT Gateway architecture diagram:
 
 ---
 
+
 ## 🔄 Traffic Flow Explanation
 1. **Private subnet instance** sends outbound traffic (e.g., updates, package installs).
 2. Traffic goes to the **private route table**, which routes `0.0.0.0/0` to the **NAT Gateway**.
