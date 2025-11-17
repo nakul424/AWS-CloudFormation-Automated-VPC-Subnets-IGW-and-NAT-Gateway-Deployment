@@ -23,6 +23,7 @@ It is designed to give you a fully functional and scalable AWS networking founda
 
 Below is the logical architecture represented by the CloudFormation stack:
 
+![Capture (1)](https://github.com/user-attachments/assets/32ec6852-18ab-417d-8660-fac902f704cf)
 
 ---
 
@@ -88,11 +89,5 @@ Feel free to open issues or submit pull requests to improve the template.
 This project is licensed under the MIT License.
 
 
----
 
-If you want, I can also:
 
-✅ Add your **architecture diagram as an image**
-✅ Create a **better ASCII diagram**
-✅ Add **steps with screenshots**
-✅ Generate a **badge-style header for GitHub**
